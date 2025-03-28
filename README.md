@@ -1,4 +1,4 @@
-# xrambox.github.io
+# xrambox
 # Hi there, I'm Ankit Anand! 👋
 
 ## About Me
